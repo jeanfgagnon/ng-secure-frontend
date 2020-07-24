@@ -5,6 +5,8 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "prod": "ng build --prod --aot --base-href /Compas/TrakRoute/ --deploy-url /Compas/TrakRoute/",
+    "copycompas": "copy-live.cmd",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
