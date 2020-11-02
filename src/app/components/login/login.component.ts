@@ -1,7 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
 
-import { AgentModel } from 'src/app/models/agent-model';
 import { AuthenticationService } from '../../services/authentication.service';
 import { first } from 'rxjs/internal/operators/first';
 
