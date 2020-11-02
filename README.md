@@ -1,6 +1,15 @@
-# TrakRoad
+# ng-secure-frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
+
+To serve as a base to build other project using JWT token exchange and auto renewal.
+
+Work with core-secure-backend.
+
+
+This code is currently running live somewhere and do the job big time.
+
+Based on Jason Watmore works. `https://github.com/cornflourblue`
 
 ## Development server
 
